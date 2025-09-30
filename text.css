@@ -1,0 +1,39 @@
+.hello{
+    color: blue;
+    text-align: center;
+    font-size: 90px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: brown;
+    text-decoration-style: double;
+    text-transform:uppercase;
+    text-shadow: 6px 5px 6px green;
+}
+.hay{
+    color: blue;
+    text-align: center;
+    font-size: 90px;
+    font-style: italic;
+    text-decoration:line-through;
+    text-decoration-color:brown;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    text-shadow: 6px 5px 6px green;
+}
+.hn{
+    color: blue;
+    text-align: center;
+    font-size: 90px;
+    font-style: italic;
+    
+    text-decoration-color:brown;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    
+}
+
+.para{
+    font-weight:  ;
+    font-family: cursive;
+    text-align: center;
+}

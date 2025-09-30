@@ -1,0 +1,26 @@
+#hello{
+background-color: rgb(0, 255, 238);
+padding: 12px 12px;
+border: none;
+
+
+}
+#hello:hover{
+    background-color: yellow;
+    border-radius: 12px;
+    border: 1px solid black;
+    transition: all .5s;
+}
+h1:nth-child(even){
+    background-color:red;
+
+}
+input::placeholder{
+    
+    color:red;
+}
+p::selection{
+    background-color: yellow;
+    color: aqua;
+
+}

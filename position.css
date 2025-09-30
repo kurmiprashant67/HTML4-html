@@ -1,0 +1,15 @@
+.hello{
+    background-color: yellow;
+    
+    margin: 300px;
+
+}
+.hay{
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    left: 80%;
+    top: 80%;
+   
+}

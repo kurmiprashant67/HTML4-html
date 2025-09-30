@@ -1,0 +1,25 @@
+.hello{
+    background-color: yellow;
+    padding: 30px;
+    border: 13px double  brown;
+}
+.hay{
+    background-color: greenyellow;
+    padding: 30px;
+    margin : 30px;
+    border-radius: 50px;
+}
+.hy{
+    background-color: pink;
+    padding: 30px;
+    margin : 30px;
+   border-bottom-right-radius: 50px;
+
+}
+.box{
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 6px 10px 8px red;
+    margin: 30px;
+}

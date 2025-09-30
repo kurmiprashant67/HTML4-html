@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(255, 192, 203, 0.986);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+section{
+   width: 300px;
+    background-color: white;
+    padding: 30px;
+    margin: 10px 0px;
+    border-radius: 30px;
+   
+   
+}
+.hy{
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px rgb(80, 54, 20);
+}
+#aa{
+    font-size: 20px;
+   border-radius: 30px;
+
+}
+#aa:hover{
+    background-color: black;
+    color: aliceblue;
+    transition: all .5s;
+    border-radius: 1px solid red;
+}
+.para{
+    display: flex;
+    justify-content: space-evenly;
+}
+#bb{
+        font-size: 20px;
+   border-radius: 20px;
+}
+#bb:hover{
+     background-color: rgb(212, 20, 20);
+    color: aliceblue;
+    transition: all .5s;
+    border-radius: 2px solid rgb(24, 202, 54);
+}
+
+
+//=============================================================================================================
+
+
+
+
+
+section{
+   
+    background-color: white;
+    padding: 30px;
+    margin: 10px 0px;
+    border-radius: 30px;
+   
+   
+}
+.hy{
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px rgb(80, 54, 20);
+}
+#aa{
+    font-size: 20px;
+   border-radius: 30px;
+
+}
+#aa:hover{
+    background-color: black;
+    color: aliceblue;
+    transition: all .5s;
+    border-radius: 1px solid red;
+}
+.para{
+    display: flex;
+    justify-content: space-evenly;
+}
+#bb{
+        font-size: 20px;
+   border-radius: 20px;
+}
+#bb:hover{
+     background-color: rgb(212, 20, 20);
+    color: aliceblue;
+    transition: all .5s;
+    border-radius: 2px solid rgb(24, 202, 54);
+}

@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content:left;
+    margin: 0;
+    padding: 20px;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 23px;
+    list-style: none;
+    
+}
+header{background-image: url(photo12.jpeg);
+   
+    background-size: 2000px;
+    background-repeat: no-repeat;
+
+}
+.paise ul{
+    color: white;
+display: flex;
+justify-content: inherit;
+gap: 20px;
+list-style: none;
+margin: 20px;
+background-color: rgba(0, 0, 0, 0.315);
+}
+.ram{
+    margin: 20px;
+}
+.btn{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.37);
+   
+}
+.happy{
+    display: flex;
+    justify-content: initial;
+    gap: 20px;
+    margin: 20px;
+}
+.navbar h3{
+    color: orangered;
+}
+span{
+    color: rgb(93, 186, 31);
+}
